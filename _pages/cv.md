@@ -6,12 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-<object data="http://http://bit.ly/PabloZarateEN" type="application/pdf" width="700px" height="700px">
-    <embed src="http://http://bit.ly/PabloZarateEN">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+You can find my resume [here](https://bit.ly/PabloZarateEN)
 
 <!--- {% include base_path %}
  
@@ -64,4 +59,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 --->
-You can find my resume here
+
