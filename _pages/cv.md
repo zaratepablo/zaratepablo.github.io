@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can find my resume [here](https://bit.ly/PabloZarateEN)
+You can find my resume [here](https://bit.ly/PabloZarateEN).
 
 <!--- {% include base_path %}
  
