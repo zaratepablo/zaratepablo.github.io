@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-
-I am an Economist from Argentina, interested in applied microeconomics and econometrics. I have a BA in Economics from the Universidad de San Andrés in Argentina and I am finishing a MA in Economics. 
+<div style="text-align: justify"> I am an Economist from Argentina, interested in applied microeconomics and econometrics. I have a BA in Economics from the Universidad de San Andrés in Argentina and I am finishing a MA in Economics. </div>
 
