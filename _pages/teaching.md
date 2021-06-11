@@ -7,7 +7,7 @@ author_profile: true
 
 ## Universidad de San Andrés - Teaching Assistant
 ### Microeconomics II
-a
+*Spring 2021*. Textbook used: [Strategy](https://econweb.ucsd.edu/~jwatson/#strategy), Joel Watson. 
 
 
 <!---
