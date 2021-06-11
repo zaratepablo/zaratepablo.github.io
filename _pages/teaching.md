@@ -5,7 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching Assistant
+## Universidad de San Andrés - Teaching Assistant
+### Microeconomics II
+a
+
 
 <!---
 {% include base_path %}
