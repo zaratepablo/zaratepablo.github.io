@@ -307,20 +307,6 @@ tag_archive:
 #     tag: /tags/:name/
 
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
