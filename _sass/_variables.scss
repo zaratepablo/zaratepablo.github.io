@@ -58,9 +58,9 @@ $background-color           : #252a34;
 $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
 $text-color                 : #eaeaea;
-$border-color               : mix(#252a34, $background-color, 20%);
+$border-color               : mix(#000, $background-color, 20%);
 
-$primary-color              : #eaeaea;
+$primary-color              : #fff;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
