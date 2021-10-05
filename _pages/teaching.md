@@ -5,15 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Universidad de San Andrés - Teaching Assistant
-### Microeconomics II
-*Spring 2021*. Textbook used: [Strategy](http://econweb.ucsd.edu/~jwatson/#strategy), Joel Watson. 
-### Advanced Microeconomics
-*Graduate course, Spring 2021*. Textbook used: [Microeconomic Theory](https://www.upf.edu/web/andreu-mas-colell/llibres/-/ppc/vistaAmpliada/LLI828/CAT/l3Yo0Qnal0dE?p_auth=ZzSOWGKi), Mas Colell, Andreu; Whinston, M. D.; Green, J. R..
-
-
-
-
+## Teaching Assistant - Universidad de San Andrés
+* **Microeconomics II:** Spring 2021. 
+* **Advanced Microeconomics:** Graduate course, Spring 2021. 
+* **Introductory Math for M.A. in Economics:** Graduate course, 2021.
+* **Econometrics:** Autumn 2020. 
+* **Introductory Economics:** Spring 2020.
+<!---  Textbook used: [Strategy](http://econweb.ucsd.edu/~jwatson/#strategy), Joel Watson. ---> 
+<!--- Textbook used: [Microeconomic Theory](https://www.upf.edu/web/andreu-mas-colell/llibres/-/ppc/vistaAmpliada/LLI828/CAT/l3Yo0Qnal0dE?p_auth=ZzSOWGKi), Mas Colell, Whinston & Green. --->
 
 <!---
 {% include base_path %}
