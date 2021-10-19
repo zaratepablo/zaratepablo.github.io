@@ -7,7 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-Hi there
+Page in progress
 
 <!---
 {% include base_path %}
