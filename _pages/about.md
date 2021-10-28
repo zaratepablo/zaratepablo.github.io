@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify"> I am an Argentina Economist interested in applied microeconomics and econometrics. I am a pre-doctoral Research Fellow at the European Bank for Reconstruction and Development. 
+<div style="text-align: justify"> I am an Argentine economist interested in applied microeconomics and econometrics. I am a pre-doctoral Research Fellow at the European Bank for Reconstruction and Development. </div>
 
-I hold a B.A. in Economics from Universidad de San Andrés, where I am currently finishing a M.A. in Economics. </div>
+<div style="text-align: justify"> I hold a B.A. in Economics from Universidad de San Andrés, where I am currently finishing a M.A. in Economics. </div>
 
