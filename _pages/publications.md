@@ -8,7 +8,7 @@ author_profile: true
 * **Working from Home** (with  Cevat Aksoy, Jose Barrero, Nicholas Bloom, Steven Davis and Mathias Dolls)
 
 ## Theses
-* **Signaling corruption through conspicuous consumption. [Link](https://zaratepablo.github.io/files/SignalingCorruption.pdf)** (Under review)
+* **Signaling corruption through conspicuous consumption. [Link](https://zaratepablo.github.io/files/SignalingCorruption.pdf)** *(Under review)*
   * Presented at the Annual Meeting of the [Asociación Argentina de Economía Política](https://aaep.org.ar/) 
 * **Recreational marijuana effect in labour market outcomes: Evidence from Uruguay** (with M. Molina). [**Link**](https://zaratepablo.github.io/files/MarijuanaUruguay.pdf)
 
