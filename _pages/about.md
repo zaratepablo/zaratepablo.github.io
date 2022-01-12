@@ -15,6 +15,6 @@ redirect_from:
 
 ## Interests
 * Applied Microeconomics
-* Econometrics
-* Economics of Crime & Corruption
 * Labor Economics
+* Economics of Crime & Corruption
+* Econometrics
