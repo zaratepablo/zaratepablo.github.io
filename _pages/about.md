@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="text-align: justify"> I am an Argentine economist working as a pre-doctoral Research Fellow at the European Bank for Reconstruction and Development. </div>
 &nbsp;
-<div style="text-align: justify"> I hold a B.A. in Economics from the Universidad de San Andrés, where I am currently finishing a M.A. in Economics. </div>
+<div style="text-align: justify"> I hold a B.A. and a M.A. in Economics from the Universidad de San Andrés. </div>
 
 
 ## Interests
