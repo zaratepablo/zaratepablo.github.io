@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Pablo Zarate"
   avatar           : "foto_2019.jpg"
-  bio              : "Economist. <br> Contact: pzarate(at)udesa.edu.ar"
+  bio              : "Economist. <br> <a href = "mailto: pzarate@udesa.edu.ar">pzarate(at)udesa.edu.ar</a>"
   location         : "Argentina"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=ggx3DOIAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
