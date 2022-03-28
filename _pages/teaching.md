@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Teaching Assistant - Universidad de San Andrés
-* **Advanced Microeconomics:** Graduate course, Spring 2021. 
-* **Microeconomics II:** Spring 2021. 
-* **Math Camp for M.A. in Economics:** Graduate short course, 2021.
+* **Advanced Microeconomics:** Graduate course, Spring 2021 & 2022. 
+* **Microeconomics II *(Game Theory)*:** Spring 2021 & 2022. 
+* **Math Camp for M.A. in Economics:** Graduate short course, 2021 & 2022.
 * **Econometrics:** Autumn 2020. 
 * **Introductory Economics:** Spring 2020.
 <!---  Textbook used: [Strategy](http://econweb.ucsd.edu/~jwatson/#strategy), Joel Watson. ---> 
