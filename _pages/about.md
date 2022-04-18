@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify"> I am an Argentine economist working as a pre-doctoral Research Fellow at the European Bank for Reconstruction and Development. </div>
+<div style="text-align: justify"> I am an economist working as a pre-doctoral Research Fellow at the European Bank for Reconstruction and Development. Starting this Fall, I will be joining Princeton as a PhD student in Economics.  </div>
 <br>
-<div style="text-align: justify"> I hold a B.A. and a M.A. in Economics from the Universidad de San Andrés. </div>
+<div style="text-align: justify"> Originally from Argentina, I hold a B.A. and a M.A. in Economics from the Universidad de San Andrés. </div>
 
 
 ## Interests
