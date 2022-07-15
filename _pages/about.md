@@ -17,4 +17,3 @@ redirect_from:
 * Applied Microeconomics
 * Labor Economics
 * Economics of Crime & Corruption
-* Econometrics
