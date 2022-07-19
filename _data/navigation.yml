@@ -3,11 +3,12 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "Research"
     url: /research/
+
+- title: "Teaching"
+    url: /teaching/    
+
         
-  - title: "Personal - About me"
-    url: /personal-about-me/
+#  - title: "Personal - About me"
+#    url: /personal-about-me/
