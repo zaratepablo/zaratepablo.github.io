@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 ## Work in progress
-* **"Working from Home Around the World"**, with  Cevat Aksoy, Jose Barrero, Nicholas Bloom, Steven Davis and Mathias Dolls. In preparation for the *Brookings Papers on Economic Activity*.
+* **"Working from Home Around the World"**, with  Cevat Aksoy, Jose Barrero, Nicholas Bloom, Steven Davis and Mathias Dolls. In preparation for the *Brookings Papers on Economic Activity*.  
+[*BPEA conference draft*](https://www.brookings.edu/wp-content/uploads/2022/09/Aksoy-et-al-Conference-Draft-BPEA-FA22.pdf)
 
 ## Theses
 * **"Signaling corruption through conspicuous consumption". [Link](https://zaratepablo.github.io/files/SignalingCorruption.pdf)**
