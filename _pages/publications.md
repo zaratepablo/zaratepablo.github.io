@@ -6,7 +6,8 @@ author_profile: true
 ---
 ## Work in progress
 * **"Working from Home Around the World"**, with  Cevat Aksoy, Jose Barrero, Nicholas Bloom, Steven Davis and Mathias Dolls. In preparation for the *Brookings Papers on Economic Activity*.  
-  * **Link:** [*BPEA conference draft*](https://www.brookings.edu/wp-content/uploads/2022/09/Aksoy-et-al-Conference-Draft-BPEA-FA22.pdf), [*NBER Working Paper*](https://www.nber.org/papers/w30446)
+  * **Link:** [*NBER Working Paper*](https://www.nber.org/papers/w30446), [*BPEA conference draft*](https://www.brookings.edu/wp-content/uploads/2022/09/Aksoy-et-al-Conference-Draft-BPEA-FA22.pdf), [*IZA Working Paper*](https://www.iza.org/publications/dp/15540/working-from-home-around-the-world), [*CESifo Working Paper*](https://www.cesifo.org/en/publikationen/2022/working-paper/working-home-around-world)
+  * Featured in [*Bloomberg*](https://www.bloomberg.com/news/articles/2022-09-08/work-from-home-is-loved-worldwide-even-if-wall-street-hates-it?leadSource=uverify%20wall), [*Becker Friedman Institute*](https://bfi.uchicago.edu/insight/finding/working-from-home-around-the-world/)
 
 ## Theses
 * **"Signaling corruption through conspicuous consumption". [Link](https://zaratepablo.github.io/files/SignalingCorruption.pdf)**
