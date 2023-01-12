@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 ## Research
-* **"Working from Home Around the World"**, *Brookings Papers on Economic Activity*, forthcoming (with Cevat Giray Aksoy, Jose Barrero, Nick Bloom, Steven J. Davis and Mathias Dolls).
+* **"Working from Home Around the World"**, *Brookings Papers on Economic Activity*, forthcoming (with Cevat Giray Aksoy, Jose Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls).
   * **Link:** [*NBER Working Paper*](https://www.nber.org/papers/w30446), [*BPEA conference draft*](https://www.brookings.edu/wp-content/uploads/2022/09/Aksoy-et-al-Conference-Draft-BPEA-FA22.pdf), [*IZA Working Paper*](https://www.iza.org/publications/dp/15540/working-from-home-around-the-world), [*CESifo Working Paper*](https://www.cesifo.org/en/publikationen/2022/working-paper/working-home-around-world)
   * Featured in [*Bloomberg*](https://www.bloomberg.com/news/articles/2022-09-08/work-from-home-is-loved-worldwide-even-if-wall-street-hates-it?leadSource=uverify%20wall), [*Becker Friedman Institute*](https://bfi.uchicago.edu/insight/finding/working-from-home-around-the-world/), [*New York Times*](https://www.nytimes.com/2022/11/30/opinion/covid-pandemic-cities-future.html), [VoxEU](https://cepr.org/voxeu/columns/working-home-around-world), [IZA](https://wol.iza.org/opinions/working-from-home-around-the-world), [Deutsche Welle](https://www.dw.com/en/why-companies-want-workers-to-return-to-work/a-63194277), [Dropbox Blog](https://blog.dropbox.com/topics/work-culture/studies-prove-we-are-productive-working-from-home).
-* **"Time Savings When Working from Home"**, *AEA Papers and Proceedings*, forthcoming (with Cevat Giray Aksoy, Jose Barrero, Nick Bloom, Steven J. Davis and Mathias Dolls).
+* **"Time Savings When Working from Home"**, *AEA Papers and Proceedings*, forthcoming (with Cevat Giray Aksoy, Jose Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls).
 * **"Signaling corruption through conspicuous consumption". [Link](https://zaratepablo.github.io/files/SignalingCorruption.pdf)**
   * Presented at the Annual Meeting of the [Asociación Argentina de Economía Política](https://aaep.org.ar/) 
 
