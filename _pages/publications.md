@@ -12,6 +12,10 @@ author_profile: true
   * **Previous links:** [*NBER Working Paper*](https://www.nber.org/papers/w30866)
   * Featured in [*Bloomberg*](https://www.bloomberg.com/news/articles/2023-01-23/remote-work-saves-global-commuters-72-minutes-a-day-study-finds), [*Becker Friedman Institute*](https://bfi.uchicago.edu/insight/finding/time-savings-when-working-from-home/), [*VoxEU*](https://cepr.org/voxeu/columns/commute-time-savings-when-working-home).
 
+## Working Papers
+* "**Why Does Working from Home Vary Across Countries and People?**" (with Mathias Dolls, Steven J. Davis, Nicholas Bloom, Jose Barrero and Cevat Giray Aksoy).
+  * **Links:** [*BFI Working Paper*](https://bfi.uchicago.edu/wp-content/uploads/2024/04/BFI_WP_2024-47.pdf).
+
 ## Policy Reports
 * ["**Working from Home Around the Globe: 2023 Report**"](https://wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf) (with Cevat Giray Aksoy, Jose Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls).
   * Featured in [*The Economist*](https://www.economist.com/business/2023/07/10/the-fight-over-working-from-home-goes-global), [*Bloomberg*](https://www.bloomberg.com/news/articles/2023-07-19/brits-are-working-from-home-more-than-rest-of-europe).
