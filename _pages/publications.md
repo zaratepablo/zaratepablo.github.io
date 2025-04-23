@@ -18,9 +18,11 @@ author_profile: true
 * "**Remote Work and Child Penalties**" (slides available upon request)
 
 ## Policy Reports
-* ["**Working from Home Around the Globe: 2023 Report**"](https://wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf) (with Cevat Giray Aksoy, Jose Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls).
+* ["**Working from Home in 2025: Five Key Facts**"](https://siepr.stanford.edu/publications/essay/working-home-2025-five-key-facts), 2025 (with Cevat Giray Aksoy, Jose Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls)
+  * Featured in [*The Economist*](https://www.economist.com/finance-and-economics/2025/04/21/unlike-everyone-else-americans-and-britons-still-shun-the-office)
+* ["**Working from Home Around the Globe: 2023 Report**"](https://wfhresearch.com/wp-content/uploads/2023/06/GSWA-2023.pdf), 2024 (with Cevat Giray Aksoy, Jose Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls).
   * Featured in [*The Economist*](https://www.economist.com/business/2023/07/10/the-fight-over-working-from-home-goes-global), [*Bloomberg*](https://www.bloomberg.com/news/articles/2023-07-19/brits-are-working-from-home-more-than-rest-of-europe).
-* **"Análisis sobre Ley de Alquileres** / **Note on renting law"**, with Federico Sturzenegger and Paula Margaretic. [**Link**](https://uploads.strikinglycdn.com/files/a5b4c462-d9b4-436a-a614-647a19055ad1/Ley_de_Alquiler%20(3).pdf)
+* **"Análisis sobre Ley de Alquileres** / **Note on renting law"**, 2020, with Federico Sturzenegger and Paula Margaretic. [**Link**](https://uploads.strikinglycdn.com/files/a5b4c462-d9b4-436a-a614-647a19055ad1/Ley_de_Alquiler%20(3).pdf)
   * Featured in [Clarín](https://www.clarin.com/economia/alquileres-temporarios-opcion-propietarios-efecto-nueva-ley-_0_WopSkv9yh.html), [El Economista Argentina](https://eleconomista.com.ar/economia/sturzenegger-confirmo-efecto-lipovetsky-cayo-oferta-subieron-precios-n38556), [El Cronista Comercial](https://www.cronista.com/apertura-negocio/realestate/Ley-de-alquileres-2020-con-la-nueva-norma-hay-menos-oferta-y-aumentaron-los-precios-20201014-0006.html) and [Perfil](https://www.perfil.com/noticias/economia/ley-de-alquileres-aumento-oferta-alquileres-temporarios.phtml).
 
 
