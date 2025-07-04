@@ -11,7 +11,7 @@ author_profile: true
 * ["**Time Savings When Working from Home**"](https://www.aeaweb.org/articles?id=10.1257/pandp.20231013), *AEA Papers and Proceedings*, 2023 (with Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls).
   * **Previous links:** [*NBER Working Paper*](https://www.nber.org/papers/w30866)
   * Featured in [*Bloomberg*](https://www.bloomberg.com/news/articles/2023-01-23/remote-work-saves-global-commuters-72-minutes-a-day-study-finds), [*Becker Friedman Institute*](https://bfi.uchicago.edu/insight/finding/time-savings-when-working-from-home/), [*VoxEU*](https://cepr.org/voxeu/columns/commute-time-savings-when-working-home).
-* "**The Global Persistence of Work from Home**", *Proceedings of the National Academy of Sciences*, forthcoming (with Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls)
+* ["**The Global Persistence of Work from Home**"](https://www.pnas.org/doi/10.1073/pnas.2509892122), *Proceedings of the National Academy of Sciences*, 2025 (with Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls)
 
 
 ## Working Papers and Work in Progress
