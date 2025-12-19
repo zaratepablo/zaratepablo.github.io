@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
+* ["**Why Working from Home Varies Across Countries and People**"](https://www.pnas.org/doi/10.1073/pnas.2529036122), *Proceedings of the National Academy of Sciences*, 2025 (with Mathias Dolls, Steven J. Davis, Nicholas Bloom, Jose Maria Barrero and Cevat Giray Aksoy).
+  * **Previous links:** [*NBER Working Paper*](https://www.nber.org/system/files/working_papers/w32374/w32374.pdf), [*BFI Working Paper*](https://bfi.uchicago.edu/wp-content/uploads/2024/04/BFI_WP_2024-47.pdf).
 * ["**The Global Persistence of Work from Home**"](https://www.pnas.org/doi/10.1073/pnas.2509892122), *Proceedings of the National Academy of Sciences*, 2025 (with Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls)
 * ["**Time Savings When Working from Home**"](https://www.aeaweb.org/articles?id=10.1257/pandp.20231013), *AEA Papers and Proceedings*, 2023 (with Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls).
   * **Previous links:** [*NBER Working Paper*](https://www.nber.org/papers/w30866)
@@ -15,9 +17,7 @@ author_profile: true
 
 
 ## Working Papers and Work in Progress
-* "**Why Does Working from Home Vary Across Countries and People?**" (with Mathias Dolls, Steven J. Davis, Nicholas Bloom, Jose Maria Barrero and Cevat Giray Aksoy).
-  * **Links:** [*NBER Working Paper*](https://www.nber.org/system/files/working_papers/w32374/w32374.pdf), [*BFI Working Paper*](https://bfi.uchicago.edu/wp-content/uploads/2024/04/BFI_WP_2024-47.pdf).
-* ["**Remote Work and Child Penalties**"](https://zaratepablo.github.io/files/RWCP.pdf)
+* ["**Remote Work and Child Penalties**"](https://zaratepablo.github.io/files/RWCP.pdf). 
 
 ## Policy Reports
 * ["**Working from Home in 2025: Five Key Facts**"](https://siepr.stanford.edu/publications/essay/working-home-2025-five-key-facts), 2025 (with Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls)
