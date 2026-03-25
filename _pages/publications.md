@@ -17,7 +17,9 @@ author_profile: true
 
 
 ## Working Papers and Work in Progress
-* ["**Remote Work and Child Penalties**"](https://zaratepablo.github.io/files/RWCP.pdf). 
+* ["**Remote Work and Child Penalties**"](https://zaratepablo.github.io/files/RWCP.pdf). *Reject and Resubmit at Journal of Human Resources*
+* [**Work from Home and Fertility**](https://www.nber.org/papers/w34963) (with Steven J. Davis, Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Katelyn Cranney, Mathias Dolls & Pablo Zarate).
+  * Featured in [*Financial Times*](https://www.ft.com/content/b08425c1-f2ce-488b-a95c-4b92a5e6cb38), [*New York Times*](https://www.nytimes.com/2026/02/09/opinion/fertility-rate-baby-work-from-home.html), [*Business Insider*](https://www.businessinsider.com/extra-births-align-with-work-from-home-stanford-study-2025-10)
 
 ## Policy Reports
 * ["**Working from Home in 2025: Five Key Facts**"](https://siepr.stanford.edu/publications/essay/working-home-2025-five-key-facts), 2025 (with Cevat Giray Aksoy, Jose Maria Barrero, Nicholas Bloom, Steven J. Davis and Mathias Dolls)
